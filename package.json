@@ -9,7 +9,16 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.16.4",
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
     "mysql": "^2.16.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tverdone10/Note-Taker.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tverdone10/Note-Taker/issues"
+  },
+  "homepage": "https://github.com/tverdone10/Note-Taker#readme"
 }
